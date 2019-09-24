@@ -1,6 +1,6 @@
 # Pay Rockwood Oregon Water Bill
 __author__ = 'Benjamin Isaacson'
-__copyright__ = GPL-3.0
+__license__ = GPL-3.0
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
